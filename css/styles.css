@@ -71,10 +71,14 @@ h2 {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
+  background-color: #4d5ae5;
 }
 .order-btn:hover,
 .order-btn:focus {
   background-color: #404bbf;
+}
+.box {
+  background-color: #2e2f42;
 }
 .logo-web {
   font-family: "Raleway", sans-serif;
