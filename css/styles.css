@@ -19,7 +19,7 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.nav-link:hover,
+ul .nav-link:hover,
 .nav-link:focus {
   color: #404bbf;
 }
@@ -31,7 +31,7 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.contact-link:hover,
+ul .contact-link:hover,
 .contact-link:focus {
   color: #404bbf;
 }
